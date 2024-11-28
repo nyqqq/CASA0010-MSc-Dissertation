@@ -1,0 +1,18 @@
+.DS_Store
+
+ethics form/
+image/
+literature/
+Meeting/
+Others/
+Overview/
+Paper/
+
+Data/boundary/
+Data/buildings/buildings.gpkg
+Data/LSOAs_boundary/
+Data/OAs_boundary/
+Data/population/census_OA_2002_2012.xlsx
+Data/road/oproad/
+Data/road/road_link.csv
+Data/WMFS_datasets/
